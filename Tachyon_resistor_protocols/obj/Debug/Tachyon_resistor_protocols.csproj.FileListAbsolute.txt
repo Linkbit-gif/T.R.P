@@ -1,0 +1,7 @@
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\bin\Debug\Tachyon_resistor_protocols.exe.config
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\bin\Debug\Tachyon_resistor_protocols.exe
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\bin\Debug\Tachyon_resistor_protocols.pdb
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\obj\Debug\Tachyon_resistor_protocols.csproj.AssemblyReference.cache
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\obj\Debug\Tachyon_resistor_protocols.csproj.CoreCompileInputs.cache
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\obj\Debug\Tachyon_resistor_protocols.exe
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\obj\Debug\Tachyon_resistor_protocols.pdb

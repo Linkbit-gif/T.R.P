@@ -1,0 +1,2 @@
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\obj\Release\Tachyon_resistor_protocols.csproj.AssemblyReference.cache
+C:\Users\rdonn\source\repos\Tachyon_resistor_protocols\obj\Release\Tachyon_resistor_protocols.csproj.CoreCompileInputs.cache
